@@ -1,5 +1,11 @@
 
 # Hi there 👋 I'm Abhinaya Zaim  
+### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhinayazaim/contribution-snake/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinayazaim&show_icons=true&theme=radical)](https://github.com/abhinayazaim)
