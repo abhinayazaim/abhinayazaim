@@ -1,18 +1,13 @@
 
 # Hi there 👋 I'm Abhinaya Zaim  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhinayazaim/contribution-snake/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+
 
 ---
 
 ### 📊 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinayazaim&show_icons=true&theme=radical)](https://github.com/abhinayazaim)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinayazaim&theme=radical&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinayazaim&layout=compact&theme=radical)](https://github.com/abhinayazaim)
 
 ---
