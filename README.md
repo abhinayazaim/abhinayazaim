@@ -1,8 +1,7 @@
 
 # Hi there 👋 I'm Abhinaya Zaim  
-### 🐍 My GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinayazaim/contribution-snake/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/abhinayazaim/contribution-snake/main/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
