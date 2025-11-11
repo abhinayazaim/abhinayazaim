@@ -4,7 +4,7 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinayazaim&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)](https://github.com/abhinayazaim)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinayazaim&show_icons=true&theme=radical&count_private=true)](https://github.com/abhinayazaim)
 
 
 
